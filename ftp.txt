@@ -1,9 +1,0 @@
-Host FTP	ftp.3dboardperu.esy.es
-IP FTP	185.28.20.37
-Puerto FTP	21
-Usuario FTP	u565352186
-Contraseña FTP	
-••••••••••
-Carpeta dónde Cargar Archivos	public_html
-¿Olvidaste tu contraseña FTP?	Cambiar contraseña de la cuenta
-Clientes FTP recomendados	SmartFTP o FileZilla 
